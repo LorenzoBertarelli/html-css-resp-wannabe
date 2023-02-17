@@ -148,6 +148,16 @@ img {
         width: 100%;
         margin-bottom: 50px;
     }
+
+    .steps{
+        margin: 0 auto;
+    }
+
+    .why-us{
+        background-color: black;
+        margin: 0 auto;
+        padding-top: 50px;
+    }
 }
 
 @media screen and (min-width: 768px) {
